@@ -1,4 +1,0 @@
-baseURL = 'https://sudiaty.github.io/'
-languageCode = 'en-us'
-title = 'Sudiaty KnowledgeBase'
-theme = 'hugo-theme-relearn'
