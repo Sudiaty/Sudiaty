@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
-description: "{{ replace .Name "-" " " | title }}"
+title: "Getting Started"
+date: 2024-12-04T18:08:54+08:00
+# draft: true
+description: "Getting Started"
 noindex: false
 featured: false
 pinned: false

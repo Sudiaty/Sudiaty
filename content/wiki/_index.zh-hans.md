@@ -1,9 +1,10 @@
 ---
-title: Docs
-description: The example of docs layout.
+title: 书屋
+type: books
+description: Where Stories Come Alive
 menu:
   main:
-    weight: 1
+    weight: 10
     params:
       icon:
         vendor: bs

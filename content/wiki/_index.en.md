@@ -1,9 +1,10 @@
 ---
-title: 文档
-description: 文档布局示例。
+title: Wiki
+type: wiki
+description: Knowledge at Your Fingertips
 menu:
   main:
-    weight: 1
+    weight: 20
     params:
       icon:
         vendor: bs

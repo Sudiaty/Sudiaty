@@ -4,7 +4,7 @@ type: docs
 description: Yet another digital garden that using docs layout.
 menu:
   main:
-    weight: 1
+    weight: 30
     params:
       icon:
         vendor: bs
