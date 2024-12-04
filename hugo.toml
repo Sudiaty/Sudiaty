@@ -1,7 +1,0 @@
-baseURL = 'https://sudiaty.github.io/'
-languageCode = 'zh-CN'
-title = 'Sudiaty的知识库'
-theme = 'hugo-theme-relearn'
-
-[params]
-  additionalContentLanguage = ['zh']
