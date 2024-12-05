@@ -1,6 +1,5 @@
 ---
 title: Wiki
-type: docs
 description: Knowledge at Your Fingertips
 menu:
   main:

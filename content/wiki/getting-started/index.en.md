@@ -3,12 +3,10 @@ title: "Getting Started"
 date: 2024-12-04T18:08:54+08:00
 # draft: true
 description: "Getting Started"
-noindex: false
-featured: false
-pinned: false
+noindex: true
+featured: true
+pinned: true
 # comments: false
-authors:
- - Bevis.Liu
 series:
 #  - 
 categories:
@@ -25,5 +23,7 @@ images:
 #         vendor: bs
 #         name: book
 #         color: '#e24d0e'
+authors:
+ - Bevis.Liu
 ---
 

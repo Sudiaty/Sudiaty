@@ -2,7 +2,7 @@
 title: Tags
 menu:
   main:
-    parent: blog
+    parent: all
     params:
       icon:
         vendor: bs

@@ -13,8 +13,9 @@ title_sections_depth: 0 # the depth of sections on the title.
 title_sections_depth_dir: end # when start, the depth is counting from the root sections.
 
 permalinks:
-  blog: /blog/:year/:month/:title
+  all: /all/:year/:month/:title
   news: /news/:year/:month/:title
+  docs: /docs/:year/:month/:title
 
 outputs:
   home:
@@ -28,7 +29,7 @@ taxonomies:
   authors: authors       # multiple authors.
   tags: tags
   categories: categories
-  # series: series
+  series: series
 
 build:
   writeStats: true # required by PurgeCSS.
@@ -52,8 +53,8 @@ related:
     weight: 80
   - name: categories
     weight: 60
-  # - name: series
-  #   weight: 60
+  - name: series
+    weight: 60
   - name: authors
     weight: 10
   - name: date

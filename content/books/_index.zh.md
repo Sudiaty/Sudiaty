@@ -1,10 +1,9 @@
 ---
-title: Books
-type: docs
+title: 书屋
 description: Where Stories Come Alive
 menu:
   main:
-    weight: 10
+    weight: 30
     params:
       icon:
         vendor: bs

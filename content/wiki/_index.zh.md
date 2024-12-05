@@ -1,6 +1,5 @@
 ---
-title: Wiki
-type: docs
+title: 知识库
 description: Knowledge at Your Fingertips
 menu:
   main:

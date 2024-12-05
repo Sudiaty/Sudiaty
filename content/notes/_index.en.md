@@ -4,7 +4,7 @@ type: docs
 description: Notes that Inspire, Ideas that Thrive.
 menu:
   main:
-    weight: 30
+    weight: 10
     params:
       icon:
         vendor: bs

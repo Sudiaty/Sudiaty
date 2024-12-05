@@ -2,11 +2,11 @@
 title: Authors
 menu:
   main:
-    parent: blog
+    parent: all
     params:
       icon:
         vendor: bs
-        name: pencil
+        name: people-fill
         color: '#0f5e97'
       description: Authors list.
 ---

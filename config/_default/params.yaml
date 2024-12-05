@@ -82,9 +82,9 @@ hb:
       featured_posts: 5 # the number of the featured posts, 0 means disabled.
       pinned_posts_position: "list"
       main_sections: # leave it empty to include all regular pages.
-        - wiki
-        - blog
-        - news
+        # - wiki
+        # - all
+        # - news
     giscus:
       repo: Sudiaty/ebed
       repo_id: R_kgDONYNt1g
