@@ -1,0 +1,8 @@
+main:
+  - identifier: all
+    name: Ĉiuj
+    weight: 100
+    params:
+      icon:
+        vendor: fas
+        name: list

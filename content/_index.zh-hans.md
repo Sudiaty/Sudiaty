@@ -1,5 +1,4 @@
 ---
-# title: HB 卡片主题
 # menu:
 #   main:
 #     name: 主页
