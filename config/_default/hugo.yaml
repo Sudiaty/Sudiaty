@@ -1,7 +1,7 @@
-baseURL: https://www.sinodawn.net/
+baseURL: http://www.sinodawn.net/
 title: Echoes of Insight
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2024-{year} [SinoDawn](https://www.sinodawn.net). All Rights Reserved."
+copyright: "Copyright © 2024-{year} [SinoDawn](http://www.sinodawn.net). All Rights Reserved."
 defaultContentLanguage: 'en'
 defaultContentLanguageInSubdir: false # when true, append the default language code into URL, i.e. /docs -> /en/docs.
 enableRobotsTXT: true
@@ -28,7 +28,7 @@ taxonomies:
   authors: authors       # multiple authors.
   tags: tags
   categories: categories
-  series: series
+  # series: series
 
 build:
   writeStats: true # required by PurgeCSS.
@@ -52,8 +52,8 @@ related:
     weight: 80
   - name: categories
     weight: 60
-  - name: series
-    weight: 60
+  # - name: series
+  #   weight: 60
   - name: authors
     weight: 10
   - name: date

@@ -1,12 +1,12 @@
 ---
-title: 书屋
-type: books
-description: Where Stories Come Alive
+title: Wiki
+type: docs
+description: Knowledge at Your Fingertips
 menu:
   main:
-    weight: 10
+    weight: 20
     params:
       icon:
         vendor: bs
-        name: book
+        name: wikipedia
 ---

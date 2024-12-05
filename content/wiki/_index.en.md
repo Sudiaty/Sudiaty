@@ -1,6 +1,6 @@
 ---
 title: Wiki
-type: wiki
+type: docs
 description: Knowledge at Your Fingertips
 menu:
   main:
@@ -8,5 +8,5 @@ menu:
     params:
       icon:
         vendor: bs
-        name: book
+        name: wikipedia
 ---

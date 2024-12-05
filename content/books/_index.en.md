@@ -1,6 +1,6 @@
 ---
 title: Books
-type: books
+type: docs
 description: Where Stories Come Alive
 menu:
   main:

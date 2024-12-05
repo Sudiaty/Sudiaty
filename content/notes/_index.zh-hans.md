@@ -1,10 +1,10 @@
 ---
-title: 笔记
+title: Notes
 type: docs
-description: 使用文档布局的另一个数字花园。
+description: Notes that Inspire, Ideas that Thrive.
 menu:
   main:
-    weight: 1
+    weight: 30
     params:
       icon:
         vendor: bs

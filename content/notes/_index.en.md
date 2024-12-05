@@ -1,7 +1,7 @@
 ---
 title: Notes
 type: docs
-description: Yet another digital garden that using docs layout.
+description: Notes that Inspire, Ideas that Thrive.
 menu:
   main:
     weight: 30
