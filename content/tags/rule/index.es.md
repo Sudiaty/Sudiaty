@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Regulo"
+date: 2024-12-06T12:23:20+08:00
 type: docs
 draft: true
-description: "{{ replace .Name "-" " " | title }}"
+description: "Neniu el la teksto estas necesa, la nura postulata estas kodo."
 # nav_weight: 5
 # nav_icon:
 #   vendor: bootstrap

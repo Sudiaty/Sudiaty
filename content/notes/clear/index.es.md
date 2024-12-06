@@ -4,6 +4,11 @@ date: 2024-12-05T11:46:58+08:00
 # draft: true
 description: "Io esenca antaŭ ol komenci."
 type: docs
+nav_weight: 1
+nav_icon:
+  vendor: bootstrap
+  name: trash
+  color: '#2e82c7'
 noindex: false
 featured: true
 pinned: false
@@ -56,4 +61,10 @@ La **VOJAĜANTO** el la Respubliko de Prando.
 La **INTELIGENTECO** el la Proleto de Tero.
 
 La **KLERULO** el la Akademio de Egaleco.
+
+
+
+## Ago
+
+Estas simple, nur faru.
 

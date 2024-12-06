@@ -1,14 +1,14 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Aserto"
+date: 2024-12-06T11:00:56+08:00
 type: docs
-draft: true
-description: "{{ replace .Name "-" " " | title }}"
-# nav_weight: 5
-# nav_icon:
-#   vendor: bootstrap
-#   name: info
-#   color: '#2e82c7'
+# draft: true
+description: "Asertu Vian Veron"
+nav_weight: 4
+nav_icon:
+  vendor: bootstrap
+  name: arrow-bar-right
+  color: '#2e82c7'
 noindex: false
 featured: false
 pinned: false
@@ -32,4 +32,8 @@ images:
 authors:
  - Bevis.Liu
 ---
+
+
+# Mi estas viva
+
 
