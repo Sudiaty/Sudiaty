@@ -10,4 +10,5 @@
 Go to [hugomods.com](https://icons.hugomods.com/#vendors) for more info.
 
 [bs](https://icons.getbootstrap.com/)
+
 [font-awesome-solid](https://fontawesome.com/search?ip=classic&s=solid&o=r)
