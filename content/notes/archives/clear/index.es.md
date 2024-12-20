@@ -1,7 +1,7 @@
 ---
 title: "Klara"
 date: 2024-12-05T11:46:58+08:00
-# draft: true
+draft: true
 description: "Io esenca antaŭ ol komenci."
 type: docs
 nav_weight: 1

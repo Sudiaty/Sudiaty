@@ -2,7 +2,7 @@
 title: "Skemo"
 date: 2024-12-05T18:03:38+08:00
 type: docs
-# draft: true
+draft: true
 description: "Skemo estas ripetita strukturo aŭ konduto, kiu helpas identigi regulecojn kaj simpligi kompleksecon."
 nav_weight: 2
 nav_icon:

@@ -2,7 +2,7 @@
 title: "Ideo"
 date: 2024-12-06T09:47:36+08:00
 type: docs
-# draft: true
+draft: true
 description: "Ideoj kiuj Ekbruligas Ŝanĝon."
 nav_weight: 3
 nav_icon:

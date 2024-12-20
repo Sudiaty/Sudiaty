@@ -2,7 +2,7 @@
 title: "Diagram"
 date: 2024-12-06T17:26:50+08:00
 type: docs
-# draft: true
+draft: true
 description: "Diagram"
 # nav_weight: 5
 # nav_icon:
